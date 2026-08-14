@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1>David Foliti</h1>
-
-<h3>Lead Web Developer · Rome, Italy</h3>
+<h2>Lead Web Developer · Rome, Italy</h2>
 
 <p>
 I build <strong>web applications</strong>, <strong>developer tools</strong>, and <strong>browser experiments</strong>.
