@@ -15,10 +15,9 @@ mainly with TypeScript, React, Next.js, Node.js, PHP and AWS.
 <a href="https://x.com/marlenesco">
   <img src="https://img.shields.io/badge/@marlenesco-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
 </a>
-<a href="https://tintary.app">
+<a href="https://tintary.app?ref=gh-profile-top">
   <img src="https://img.shields.io/badge/Tintary-visit-555?style=flat-square" alt="Tintary">
 </a>
-<img src="https://img.shields.io/badge/Rome-Italy-555?style=flat-square" alt="Rome, Italy">
 </p>
 
 </div>
@@ -90,13 +89,13 @@ Analytics and consent integrations with Google Tag Manager, GA4, Measurement Pro
 <table>
 <tr>
 <td width="55%" valign="middle">
-<a href="https://tintary.app">
+<a href="https://tintary.app?ref=gh-profile-card-img">
   <img src="images/tintary.png" width="100%" alt="Tintary preview">
 </a>
 </td>
 <td width="45%" valign="middle">
 
-<h3><a href="https://tintary.app">Tintary</a></h3>
+<h3><a href="https://tintary.app?ref=gh-profile-card-title">Tintary</a></h3>
 
 <p>
 A free tool for building and experimenting with <strong>color systems</strong>.
@@ -107,7 +106,7 @@ Perceptual scales, semantic roles, contrast checks, and exports for CSS, Tailwin
 </p>
 
 <p>
-<a href="https://tintary.app"><strong>Open Tintary →</strong></a>
+<a href="https://tintary.app?ref=gh-profile-card-link"><strong>Open Tintary →</strong></a>
 </p>
 
 </td>
@@ -272,16 +271,11 @@ The project is now also exploring reusable React, Vue, and Svelte adapters.
 
 <br>
 
-<details>
-<summary><strong>A little more about me</strong></summary>
-
-<br>
+### A little more about me
 
 I've been building for the web for a long time, but I still enjoy experimenting with new ideas and technologies outside my day-to-day work.
 
 When I'm not writing code, I'm usually interested in **motorcycles, 3D printing, music** and being a proud dad of two boys.
-
-<br>
 
 ---
 
@@ -289,10 +283,10 @@ When I'm not writing code, I'm usually interested in **motorcycles, 3D printing,
 
 <strong>Build useful things. Experiment with the rest.</strong>
 
-<br><br>
+<br>
 
 <a href="https://github.com/marlenesco">GitHub</a>
  ·  <a href="https://x.com/marlenesco">Twitter</a>
- ·  <a href="https://tintary.app">Tintary</a>
+ ·  <a href="https://tintary.app?ref=gh-profile-bottom">Tintary</a>
 
 </div>
