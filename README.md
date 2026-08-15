@@ -90,6 +90,33 @@ Analytics and consent integrations with Google Tag Manager, GA4, Measurement Pro
 <table>
 <tr>
 <td width="55%" valign="middle">
+<a href="https://tintary.app">
+  <img src="images/tintary.png" width="100%" alt="Tintary preview">
+</a>
+</td>
+<td width="45%" valign="middle">
+
+<h3><a href="https://tintary.app">Tintary</a></h3>
+
+<p>
+A free tool for building and experimenting with <strong>color systems</strong>.
+</p>
+
+<p>
+Perceptual scales, semantic roles, contrast checks, and exports for CSS, Tailwind, Material UI, Bootstrap, and Tokens Studio.
+</p>
+
+<p>
+<a href="https://tintary.app"><strong>Open Tintary →</strong></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="55%" valign="middle">
 <a href="https://marlenesco.github.io/gesture-proof/">
   <img src="images/gesture-proof.png" width="100%" alt="Gesture Proof preview">
 </a>
@@ -109,33 +136,6 @@ Hand tracking and processing run on-device, directly in the browser.
 <p>
 <a href="https://marlenesco.github.io/gesture-proof/"><strong>Live demo →</strong></a><br>
 <a href="https://github.com/marlenesco/gesture-proof">Source code</a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="55%" valign="middle">
-<a href="https://tintary.app">
-  <img src="images/tintary.png" width="100%" alt="Tintary preview">
-</a>
-</td>
-<td width="45%" valign="middle">
-
-<h3><a href="https://tintary.app">Tintary</a></h3>
-
-<p>
-A free tool for building and experimenting with <strong>color systems</strong>.
-</p>
-
-<p>
-Perceptual scales, semantic roles, contrast checks, and exports for CSS, Tailwind, Material UI, Bootstrap, and Tokens Studio.
-</p>
-
-<p>
-<a href="https://tintary.app"><strong>Open Tintary →</strong></a>
 </p>
 
 </td>
