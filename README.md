@@ -279,9 +279,7 @@ The project is now also exploring reusable React, Vue, and Svelte adapters.
 
 I've been building for the web for a long time, but I still enjoy experimenting with new ideas and technologies outside my day-to-day work.
 
-When I'm not writing code, I'm usually interested in **motorcycles, 3D printing, or drums**.
-
-</details>
+When I'm not writing code, I'm usually interested in **motorcycles, 3D printing, music** and being a proud dad of two boys.
 
 <br>
 
