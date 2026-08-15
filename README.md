@@ -7,7 +7,7 @@ I build <strong>web applications</strong>, <strong>developer tools</strong>, and
 </p>
 
 <p>
-Most of my work revolves around web platforms, distributed services and cloud infrastructure —<br>
+Most of my work revolves around web platforms, distributed services and cloud infrastructure -<br>
 mainly with TypeScript, React, Next.js, Node.js, PHP and AWS.
 </p>
 
@@ -29,7 +29,7 @@ mainly with TypeScript, React, Next.js, Node.js, PHP and AWS.
 
 ### Marketing Acquisition & Lead Generation at Verisure Italy
 
-I lead the technical evolution of the web platforms behind digital acquisition and lead generation — from landing pages and configurable funnels to APIs, back-office tools and enterprise integrations.
+I lead the technical evolution of the web platforms behind digital acquisition and lead generation - from landing pages and configurable funnels to APIs, back-office tools and enterprise integrations.
 
 My role combines **hands-on development, application architecture, technical leadership, modernization, delivery and production operations**.
 
@@ -228,7 +228,7 @@ The project is now also exploring reusable React, Vue, and Svelte adapters.
 
 <br>
 
-> I like small projects that let me explore an idea without needing to turn everything into a product — browser APIs, UI experiments, developer tooling, visualization, and occasionally things that are simply fun to build.
+> I like small projects that let me explore an idea without needing to turn everything into a product - browser APIs, UI experiments, developer tooling, visualization, and occasionally things that are simply fun to build.
 
 ---
 
