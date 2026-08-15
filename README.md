@@ -29,8 +29,12 @@ with a focus on performance, maintainability, and building things that are actua
 
 <table>
 <tr>
-
-<td width="50%" valign="top">
+<td width="55%" valign="middle">
+<a href="https://marlenesco.github.io/gesture-proof/">
+  <img src="images/gesture-proof.png" width="100%" alt="Gesture Proof preview">
+</a>
+</td>
+<td width="45%" valign="middle">
 
 <h3><a href="https://github.com/marlenesco/gesture-proof">Gesture Proof</a></h3>
 
@@ -48,8 +52,17 @@ Hand tracking and processing run on-device, directly in the browser.
 </p>
 
 </td>
+</tr>
+</table>
 
-<td width="50%" valign="top">
+<table>
+<tr>
+<td width="55%" valign="middle">
+<a href="https://tintary.app">
+  <img src="images/tintary.png" width="100%" alt="Tintary preview">
+</a>
+</td>
+<td width="45%" valign="middle">
 
 <h3><a href="https://tintary.app">Tintary</a></h3>
 
@@ -66,12 +79,17 @@ Perceptual scales, semantic roles, contrast checks, and exports for CSS, Tailwin
 </p>
 
 </td>
-
 </tr>
+</table>
 
+<table>
 <tr>
-
-<td width="50%" valign="top">
+<td width="55%" valign="middle">
+<a href="https://watch-org.vercel.app/repositories/pulse-web?range=90d&from=2026-01-13&to=2026-04-12&repository=pulse-web&user=all&activity=all&branch=all&org=demo-org">
+  <img src="images/watch-org.png" width="100%" alt="Watch Org preview">
+</a>
+</td>
+<td width="45%" valign="middle">
 
 <h3><a href="https://github.com/marlenesco/watch-org">Watch Org</a></h3>
 
@@ -84,13 +102,22 @@ Explore repositories, people, and development activity from locally synchronized
 </p>
 
 <p>
-<a href="https://watch-org.vercel.app/"><strong>Live demo →</strong></a><br>
+<a href="https://watch-org.vercel.app/repositories/pulse-web?range=90d&from=2026-01-13&to=2026-04-12&repository=pulse-web&user=all&activity=all&branch=all&org=demo-org"><strong>Live demo →</strong></a><br>
 <a href="https://github.com/marlenesco/watch-org">Source code</a>
 </p>
 
 </td>
+</tr>
+</table>
 
-<td width="50%" valign="top">
+<table>
+<tr>
+<td width="55%" valign="middle">
+<a href="https://codepen.io/marlenesco/full/JoKVaJx">
+  <img src="images/smooth-player.png" width="100%" alt="Smooth Player preview">
+</a>
+</td>
+<td width="45%" valign="middle">
 
 <h3><a href="https://github.com/marlenesco/smooth-player">Smooth Player</a></h3>
 
@@ -108,12 +135,17 @@ Includes framework integrations for React, Vue, and Svelte.
 </p>
 
 </td>
-
 </tr>
+</table>
 
+<table>
 <tr>
-
-<td width="50%" valign="top">
+<td width="55%" valign="middle">
+<a href="https://codepen.io/marlenesco/full/NqOozj">
+  <img src="images/material-card.png" width="100%" alt="Material Cards preview">
+</a>
+</td>
+<td width="45%" valign="middle">
 
 <h3><a href="https://github.com/marlenesco/material-cards">Material Cards</a></h3>
 
@@ -131,23 +163,12 @@ The project is now also exploring reusable React, Vue, and Svelte adapters.
 </p>
 
 </td>
-
-<td width="50%" valign="top">
-
-<h3>Building & experimenting</h3>
-
-<p>
-I like small projects that let me explore an idea without needing to turn everything into a product.
-</p>
-
-<p>
-Browser APIs, UI experiments, developer tooling, visualization — and occasionally things that are simply fun to build.
-</p>
-
-</td>
-
 </tr>
 </table>
+
+<br>
+
+> I like small projects that let me explore an idea without needing to turn everything into a product — browser APIs, UI experiments, developer tooling, visualization, and occasionally things that are simply fun to build.
 
 ---
 
