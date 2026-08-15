@@ -1,14 +1,14 @@
 <div align="center">
 
-<h2>Lead Web Developer · Rome, Italy</h2>
+<h2>Tech Lead · Lead Web Developer · Rome, Italy</h2>
 
 <p>
 I build <strong>web applications</strong>, <strong>developer tools</strong>, and <strong>browser experiments</strong>.
 </p>
 
 <p>
-Most of my work revolves around TypeScript, React, Next.js, Node.js and AWS,<br>
-with a focus on performance, maintainability, and building things that are actually useful.
+Most of my work revolves around web platforms, distributed services and cloud infrastructure —<br>
+mainly with TypeScript, React, Next.js, Node.js, PHP and AWS.
 </p>
 
 <p>
@@ -22,6 +22,66 @@ with a focus on performance, maintainability, and building things that are actua
 </p>
 
 </div>
+
+---
+
+## Professional focus
+
+### Marketing Acquisition & Lead Generation at Verisure Italy
+
+I lead the technical evolution of the web platforms behind digital acquisition and lead generation — from landing pages and configurable funnels to APIs, back-office tools and enterprise integrations.
+
+My role combines **hands-on development, application architecture, technical leadership, modernization, delivery and production operations**.
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<h4>Applications & architecture</h4>
+
+<p>
+TypeScript, Next.js, React and Node.js for modern web applications and services, while progressively modernizing existing PHP / Symfony systems.
+</p>
+
+<p>
+APIs, asynchronous workflows and integrations with CRM, authentication, lead-management and internal business systems.
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h4>Cloud & delivery</h4>
+
+<p>
+AWS architectures using ECS, Lambda, SQS, DynamoDB, RDS, OpenSearch, S3 and CloudFront.
+</p>
+
+<p>
+Docker, GitHub Actions, CI/CD, CDN and caching strategies, TLS, DNS, release validation and rollback procedures.
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h4>Operations & measurement</h4>
+
+<p>
+Performance and production observability with Sentry, CloudWatch, Logs Insights and Grafana.
+</p>
+
+<p>
+Analytics and consent integrations with Google Tag Manager, GA4, Measurement Protocol, Google Tag Gateway and OneTrust.
+</p>
+
+</td>
+
+</tr>
+</table>
+
+> Most of my professional work lives in private company repositories. The projects below are personal and open-source work where I explore ideas, technologies and product concepts.
 
 ---
 
