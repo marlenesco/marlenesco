@@ -4,7 +4,7 @@
 
 I build <strong>web applications</strong>, <strong>developer tools</strong>, and <strong>browser experiments</strong>.
 
-Web platforms, distributed services, and cloud infrastructure — mainly TypeScript, React, Next.js, Node.js, PHP, and AWS.
+Web platforms, distributed services, and cloud infrastructure, mainly TypeScript, React, Next.js, Node.js, PHP, and AWS.
 
 <a href="https://x.com/marlenesco">
   <img src="https://img.shields.io/badge/@marlenesco-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
@@ -25,19 +25,19 @@ I lead the technical evolution of web platforms behind digital acquisition and l
 
 Role combines **hands-on development, application architecture, technical leadership, modernization, delivery, and production operations**.
 
-#### Applications & architecture
+### Applications & architecture
 
-TypeScript, Next.js, React, and Node.js for modern applications and services; with progressive modernization of PHP / Symfony systems.
+TypeScript, Next.js, React, Node.js and Playwright for modern applications and services; with progressive modernization of PHP / Symfony systems.
 
 APIs, asynchronous workflows, and integrations with CRM, authentication, lead-management, and internal business systems.
 
-#### Cloud & delivery
+### Cloud & delivery
 
 AWS architectures with ECS, Lambda, SQS, DynamoDB, RDS, OpenSearch, S3, and CloudFront.
 
 Docker, GitHub Actions, CI/CD, CDN and caching strategy, TLS, DNS, release validation, and rollback procedures.
 
-#### Operations & measurement
+### Operations & measurement
 
 Performance and production observability with Sentry, CloudWatch, Logs Insights, and Grafana.
 
