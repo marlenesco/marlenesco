@@ -51,7 +51,7 @@ Analytics and consent integrations with Google Tag Manager, GA4, Measurement Pro
 
 ### [Tintary](https://tintary.app?ref=gh-profile-card-title)
 
-[<img src="images/tintary.png" width="100%" alt="Tintary preview">](https://tintary.app?ref=gh-profile-card-img)
+[![Tintary preview](images/tintary.png)](https://tintary.app?ref=gh-profile-card-img)
 
 A free tool for building and experimenting with **color systems**: perceptual scales, semantic roles, contrast checks, and exports for CSS, Tailwind, Material UI, Bootstrap, and Tokens Studio.
 
@@ -61,7 +61,7 @@ A free tool for building and experimenting with **color systems**: perceptual sc
 
 ### [Gesture Proof](https://github.com/marlenesco/gesture-proof)
 
-[<img src="images/gesture-proof.png" width="100%" alt="Gesture Proof preview">](https://marlenesco.github.io/gesture-proof/)
+[![Gesture Proof preview](images/gesture-proof.png)](https://marlenesco.github.io/gesture-proof/)
 
 Browser experiments around **gesture detection, interaction, movement, and effects**. Hand tracking and processing run on-device, directly in browser.
 
@@ -71,7 +71,7 @@ Browser experiments around **gesture detection, interaction, movement, and effec
 
 ### [Smooth Player](https://github.com/marlenesco/smooth-player)
 
-[<img src="images/smooth-player.png" width="100%" alt="Smooth Player preview">](https://codepen.io/marlenesco/full/JoKVaJx)
+[![Smooth Player preview](images/smooth-player.png)](https://codepen.io/marlenesco/full/JoKVaJx)
 
 TypeScript audio player for web with playlist handling, visualizers, theming, and reusable UI helpers. Includes React, Vue, and Svelte integrations.
 
@@ -81,7 +81,7 @@ TypeScript audio player for web with playlist handling, visualizers, theming, an
 
 ### [Material Cards](https://github.com/marlenesco/material-cards)
 
-[<img src="images/material-card.png" width="100%" alt="Material Cards preview">](https://codepen.io/marlenesco/full/NqOozj)
+[![Material Cards preview](images/material-card.png)](https://codepen.io/marlenesco/full/NqOozj)
 
 Material-inspired card component, originally built with **JavaScript and SCSS**; now exploring reusable React, Vue, and Svelte adapters.
 
@@ -93,7 +93,7 @@ Material-inspired card component, originally built with **JavaScript and SCSS**;
 
 ### [Watch Org](https://github.com/marlenesco/watch-org)
 
-[<img src="images/watch-org.png" width="100%" alt="Watch Org preview">](https://watch-org.vercel.app/repositories/pulse-web?range=90d&from=2026-01-13&to=2026-04-12&repository=pulse-web&user=all&activity=all&branch=all&org=demo-org)
+[![Watch Org preview](images/watch-org.png)](https://watch-org.vercel.app/repositories/pulse-web?range=90d&from=2026-01-13&to=2026-04-12&repository=pulse-web&user=all&activity=all&branch=all&org=demo-org)
 
 GitHub organization activity workspace built with **Next.js, PostgreSQL, and a GitHub App**. Explore repositories, people, and development activity from locally synchronized GitHub data.
 
