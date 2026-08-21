@@ -1,3 +1,6 @@
+![Github Cover Image](images/coverl.jpg)]
+
+
 <div align="center">
 
 <h2>Tech Lead · Lead Web Developer · Rome, Italy</h2>
