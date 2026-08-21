@@ -1,4 +1,4 @@
-![Github Cover Image](images/cover.jpg)
+![Github Cover Image](images/coverc.jpg)
 
 
 <div align="center">
