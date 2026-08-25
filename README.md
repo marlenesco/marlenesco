@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<h2>Tech Lead · Lead Web Developer · Rome, Italy</h2>
+<h2>Tech Lead · Lead Developer · Rome, Italy</h2>
 
 I build <strong>web applications</strong>, <strong>developer tools</strong>, and <strong>browser experiments</strong>.
 
